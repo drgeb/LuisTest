@@ -15,3 +15,17 @@ git remote add origin https://github.com/drgeb/LuisTest.git
 git branch -M master
 git push -u origin master
 ```
+
+### Step 3: Install NodeJS
+
+[Follow the steps from this site:](https://linuxize.com/post/how-to-install-node-js-on-centos-7/)
+
+Test installation:
+
+```
+node --version
+```
+
+```
+npm --version
+```
